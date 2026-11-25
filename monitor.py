@@ -1,1 +1,2 @@
-print("server started")
+print("server started adm running")
+
